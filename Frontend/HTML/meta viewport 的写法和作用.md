@@ -1,3 +1,5 @@
+#记忆型
+
 常规写法：
 
 ```html
@@ -20,4 +22,4 @@
 | initial-scale | 设置页面的初始缩放值，为一个数字，可以带小数                  |
 | maximum-scale | 允许用户的最大缩放值，为一个数字，可以带小数                  |
 | minimum-scale | 允许用户的最小缩放值，为一个数字，可以带小数                  |
-| user-scalable | 是否允许用户进行缩放，值为"no"或"yes",no代表不允许yes代表允许 |
+| user-scalable | 是否允许用户进行缩放，值为"no"或"yes"，no代表不允许yes代表允许 |
