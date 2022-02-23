@@ -1,2 +1,2 @@
 # Interview
-面试题收集
+使用Obsidian组织的面试题收集
